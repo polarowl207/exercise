@@ -15,3 +15,6 @@ To create an unordered list, add any of these in front of line items:
   - or more items
 
 To include a link, use [square brackets] for the link text and (round brackets) for the URL. To learn more about Markdown syntax, use [this site](https://www.markdownguide.org/basic-syntax/).
+
+
+For GitHub basics, refer to [these quick start guidelines](https://docs.github.com/en/get-started/quickstart/github-flow).
